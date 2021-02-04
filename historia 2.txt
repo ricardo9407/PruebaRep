@@ -1,1 +1,5 @@
 En este Proyecto se van hacer pruebas para el curso de Git y Github de Platzi.
+html: se ingreso una imagen de prueba en el archivo.
+    Al incluir "alt" en el atributo puedo poner una descripción de la imagen.
+
+    El src es para inclur el url (direccion de la ubicación) de la imagen.
